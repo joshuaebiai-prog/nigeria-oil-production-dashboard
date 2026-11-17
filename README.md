@@ -59,4 +59,4 @@ Power BI Desktop, Power Query, DAX
 - `NOTES.md`: detailed method notes
 
 ## Author
-[Joshua Ebiai], geology graduate | [www.linkedin.com/in/joshua-ebiai-767917285].
+Joshua Ebiai, geology graduate | [www.linkedin.com/in/joshua-ebiai-767917285].
